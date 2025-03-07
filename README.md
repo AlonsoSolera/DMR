@@ -7,7 +7,7 @@
 
 ## Instalación 🔧
 
-Sigue estos pasos para instalar el proyecto:
+Follow this steps to install the project:
 
 ```bash
 git clone https://github.com/AlonsoSolera/DMR.git
